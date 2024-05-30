@@ -1,0 +1,11 @@
+<!--pages/view/view.wxml-->
+<view class="mycontainer">
+  <text>  1.向父容器传播</text>
+  <view class="parent-view" hover-class="hover-view">我是父容器
+    <view class="son-view" hover-class="hover-view">我是子容器</view>
+  </view>
+  <text>  2.不向父容器传播</text>
+  <view class="parent-view" hover-class="hover-view" >我是父容器
+    <view class="son-view" hover-class="hover-view" hover-stop-propagation>我是子容器</view>
+  </view>
+</view>

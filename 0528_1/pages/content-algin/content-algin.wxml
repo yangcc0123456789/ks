@@ -1,0 +1,7 @@
+<view class="mycontainer">
+  <view class="minibox A">项目A</view>
+  <view class="minibox B">项目B</view>
+  <view class="minibox C">项目C</view>
+  <view class="minibox A">项目D</view>
+  <view class="minibox B">项目E</view>
+</view>

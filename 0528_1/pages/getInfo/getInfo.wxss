@@ -1,0 +1,4 @@
+/* pages/getInfo/getInfo.wxss */
+.mc{
+  text-align: center;
+}

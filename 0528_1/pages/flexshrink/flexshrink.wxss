@@ -1,0 +1,27 @@
+.mycontainer{
+  width: 500rpx;
+  height: 300rpx;
+  border: 1rpx solid silver;
+  margin: 80rpx auto;
+  display: flex;
+  flex-direction: row;
+}
+.minibox{
+  border: 1rpx solid silver;
+   background-color: lightgreen;
+   text-align: center;
+   height: 100rpx;
+   line-height: 100rpx;
+ }
+ .A{
+   width: 200rpx;
+   flex-shrink: 1;
+ }
+ .B{
+   width: 200rpx;
+   flex-shrink: 2;
+ }
+ .C{
+   width: 200rpx;
+   flex-shrink: 3;
+ }

@@ -1,0 +1,15 @@
+<view class="container">
+  <view>目录</view>
+  <navigator url="/pages/content-algin/content-algin">1.content-align</navigator>
+  <navigator url="/pages/flexshrink/flexshrink">2.flexshrink</navigator>
+  <navigator url="/pages/view/view">3.view</navigator>
+  <navigator url="/pages/scroll/scroll">4.scroll</navigator>
+  <navigator url="/pages/swiper/swiper">5.swiper</navigator>
+  <navigator url="/pages/sjxarea/sjxarea">6.sjxarea</navigator>
+  <navigator url="/pages/jiujiu/jiujiu">7.jiujiu</navigator>
+  <navigator url="/pages/ss/ss">8.ss</navigator>
+  <navigator url="/pages/image/image">9.image</navigator>
+  <navigator url="/pages/vedio/vedio">10.vedio</navigator>
+  <navigator url="/pages/luopan/luopan">11.luopan </navigator>
+  <navigator url="/pages/getInfo/getInfo">12.getInfo</navigator>
+</view>

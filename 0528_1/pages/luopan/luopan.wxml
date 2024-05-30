@@ -1,0 +1,4 @@
+<!--pages/luopan/luopan.wxml-->
+<view>传感器</view>
+<view>获取罗盘信息</view>
+<view>当前的方向是：{{direction}}</view>

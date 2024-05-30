@@ -1,0 +1,9 @@
+.container{
+  border: 1px solid silver;
+  margin: 30rpx;
+  font-size: 60rpx;
+}
+navigator{
+  margin: 20rox;
+  border-bottom: 1px solid silver;
+}

@@ -1,0 +1,25 @@
+.mycontainer{
+  width: 600rpx;
+  height: 500rpx;
+  margin: 80rpx auto;
+  border: 1rpx solid black;
+  display: flex;
+  flex-wrap: wrap;
+  align-content: space-between;
+}
+.minibox{
+  border: 1rpx solid silver;
+  background-color: lightgreen;
+  text-align: center;
+  height: 100rpx;
+  line-height: 100rpx;
+}
+.A{
+  width: 200rpx;
+}
+.B{
+  width: 300rpx;
+}
+.C{
+  width: 350rpx;
+}

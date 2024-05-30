@@ -1,0 +1,13 @@
+/* pages/swiper/swiper.wxss */
+swiper{
+  height: 300rpx;
+}
+.swiper-item{
+  height: 300rpx;
+  line-height: 300rpx;
+  background-color: skyblue;
+}
+image{
+  width: 300rpx;
+  line-height: 300rpx;
+}

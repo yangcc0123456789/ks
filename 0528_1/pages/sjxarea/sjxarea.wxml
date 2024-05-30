@@ -1,0 +1,14 @@
+<!--pages/sjxarea/sjxarea.wxml-->
+<form bindsubmit="formSubmit">
+  <text>输入三边：</text>
+  <view>
+    A:<input type="text" name="a" value="{{a}}"/>
+    B:<input type="text" name="b" value="{{b}}"/>
+    C:<input type="text" name="c" value="{{c}}"/>
+  </view>
+  <view>
+    <button form-type="submit">提交</button>
+    <button form-type="reset">重置</button>
+  </view>
+  <view>三角形的面积为：{{area}}</view>
+</form>

@@ -1,0 +1,12 @@
+<!--pages/getInfo/getInfo.wxml-->
+<view class="mc">
+<view>获取系统信息</view>
+<button type="primary" size="mini" bindtap="tongbu">异步获取</button>
+<button type="primary" size="mini" bindtap="yibu">同步获取</button>
+<button type="primary" size="mini" bindtap="reset">清空结果</button>
+<view>手机品牌：{{res.brand}}</view>
+<view>手机型号：{{res.model}}</view>
+<view>操作系统：{{res.system}}</view>
+<view>客户端平台：{{res.platform}}</view>
+<view>微信版本：{{res.version}}</view>
+</view>

@@ -1,0 +1,11 @@
+<!--pages/image/image.wxml-->
+<view class="mc">
+  <text>图片管理</text>
+  <button type="default" bindtap="chooseImage">选择图片</button>
+  <view class="Imagebox">
+    <image src="{{src}}" mode="widthFix"/>
+  </view>
+  <button type="primary" size="mini" bindtap="yulan">预览图片</button>
+  <button type="primary" size="mini" bindtap="getInfo">图片信息</button>
+  <button type="primary" size="mini" bindtap="saveImg">保存图片</button>
+</view>

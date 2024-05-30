@@ -1,0 +1,7 @@
+/* pages/vedio/vedio.wxss */
+.aq{
+  margin: 0 auto;
+}
+video{
+  text-align: center;
+}

@@ -1,0 +1,6 @@
+<!--pages/flexshrink/flexshrink.wxml-->
+<view class="mycontainer">
+  <view class="minibox A">项目A</view>
+  <view class="minibox B">项目A</view>
+  <view class="minibox C">项目A</view>
+</view>

@@ -1,0 +1,5 @@
+
+<text>请输入一个正整数</text>
+<input type="text" bindinput="czss" value="{{n}}"/>
+<button bindtap="chazhao">查找</button>
+<text>小于{{n}}的素数有：{{result}}</text>

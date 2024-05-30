@@ -1,0 +1,10 @@
+<!--pages/vedio/vedio.wxml-->
+<text>视频播放器</text>
+<view>
+  <button type="primary" size="default" bindtap="chooseV">选择视频</button>
+  <view catch:transitionend="aq"><video id="first" src="{{src}}" controls/></view>
+  
+  <button type="primary" size="mini" bindtap="play">播放</button>
+  <button type="primary" size="mini" bindtap="pause">暂停</button>
+  <button type="primary" size="mini" bindtap="saveV">保存</button>
+</view>

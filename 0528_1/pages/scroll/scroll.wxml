@@ -1,0 +1,15 @@
+<!--pages/scroll/scroll.wxml-->
+<text>纵向</text>
+<scroll-view scroll-y>
+  <view class="scroll-view-y">1</view>
+  <view class="scroll-view-y">2</view>
+  <view class="scroll-view-y">3</view>
+  <view class="scroll-view-y">4</view>
+</scroll-view>
+<text>横向</text>
+<scroll-view scroll-x>
+  <view class="scroll-view-x">1</view>
+  <view class="scroll-view-x">2</view>
+  <view class="scroll-view-x">3</view>
+  <view class="scroll-view-x">4</view>
+</scroll-view>

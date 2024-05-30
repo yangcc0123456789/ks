@@ -1,0 +1,25 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/content-algin/content-algin",
+    "pages/flexshrink/flexshrink",
+    "pages/view/view",
+    "pages/scroll/scroll",
+    "pages/swiper/swiper",
+    "pages/sjxarea/sjxarea",
+    "pages/jiujiu/jiujiu",
+    "pages/ss/ss",
+    "pages/image/image",
+    "pages/vedio/vedio",
+    "pages/getInfo/getInfo",
+    "pages/luopan/luopan"
+  ],
+  "window": {
+    "navigationBarBackgroundColor": "#ffffff",
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "title",
+    "backgroundColor": "#eeeeee",
+    "backgroundTextStyle": "light",
+    "enablePullDownRefresh": true
+  }
+}

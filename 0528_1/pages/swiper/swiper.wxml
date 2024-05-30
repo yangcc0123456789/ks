@@ -1,0 +1,29 @@
+<!--pages/swiper/swiper.wxml-->
+<swiper indicator-dots autoplay interval="2500" duration>
+  <swiper-item >
+    <view class="swiper-item">1</view>
+  </swiper-item>
+  <swiper-item >
+    <view class="swiper-item">2</view>
+  </swiper-item>
+  <swiper-item >
+    <view class="swiper-item">3</view>
+  </swiper-item>
+  <swiper-item >
+    <view class="swiper-item">4</view>
+  </swiper-item>
+</swiper>
+<swiper indicator-dots autoplay interval="2500" duration>
+  <swiper-item>
+    <image src="" mode=""/>
+  </swiper-item>
+  <swiper-item>
+    <image src="" mode=""/>
+  </swiper-item>
+  <swiper-item>
+    <image src="" mode=""/>
+  </swiper-item>
+  <swiper-item>
+    <image src="" mode=""/>
+  </swiper-item>
+</swiper>

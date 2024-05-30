@@ -1,0 +1,4 @@
+/* pages/ss/ss.wxss */
+input{
+  border: 1rpx solid silver;
+}
